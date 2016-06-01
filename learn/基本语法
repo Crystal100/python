@@ -1,0 +1,6 @@
+python基本结构：缩进式
+
+函数定义
+def function():
+  print A
+
